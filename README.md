@@ -1,11 +1,13 @@
-# Pizza Delivered Quickly POS
+# Pizza Delivered Quickly
 
-## Problem/opportunity
+## Project Overview Statement
 
-## Project Goal
+### Problem/opportunity
 
-## Project Objectives
+### Project Goal
 
-## Success Criteria
+### Project Objectives
 
-## Assumptions/Risks/Obstacles
+### Success Criteria
+
+### Assumptions/Risks/Obstacles
