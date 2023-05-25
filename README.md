@@ -3,5 +3,4 @@
 
 [Project Charter](project-charter.md)
 
-## RBS (Requirements Breakdown Structure)
-![RBS image](RBS.png)
+[RBS](RBS.md)
